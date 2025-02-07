@@ -1,16 +1,43 @@
-## Hi there 👋
+# 👋Hello,There!
 
-<!--
-**Rise-forever/Rise-forever** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+我是Riseforever，这是我的个人Github主页。
 
-Here are some ideas to get you started:
+## 我
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Riseforever，这是我的网名，也是本站的域名，寓意着`无限进步`。
+
+当然，我还有一个网名“是路明呀”，你也可以称呼我“路明”。
+
+坐标`河南省` `洛阳市`，生日是`2010`年`6`月`1`日，就读于本地某所重点中学，是一名怀揣远大理想的初三学生。
+
+热爱`计算机`以及一切与其有关的东西，会`弹`会`说`会`写`，成绩优异。
+
+担任`蓝屏工具箱`产品经理（[❔](https://i.riseforever.cn/about.html#heading-2)），曾经担任该项目主开发。在学习之余喜欢写一些自己的小玩意。
+
+下面是一些标签，可能会帮助你了解我。
+
+⌈基本⌋：`男` `10后` `学生` `初三` `ISTP`
+
+⌈角色⌋：`开发者` `产品经理`
+
+⌈爱好⌋：`电脑` `钢琴` `书法` `开发` `运维` `网站` `写作`
+
+所以，用一句话概括就是：
+
+> 一位热爱科技的学生兼开发者。
+
+## 网站
+
+以前，这里是我分享科技知识的舞台；现在，这里是我的生活日记本。
+
+深度独立思考谈不上，我只是一个初中学生，只能在做好自己分内之事——学习之余来分享一下日常琐事。因此，本站的内容大多都很无聊。
+
+服务器是腾讯云的新加坡Lighthouse，活动99元/年，想着自己手机号多，白嫖个12年（）
+
+域名是2023年无意间想起的，发现这个前缀只有cn没被注册，便注册了。现在已续费到2027年。
+
+加油吧。
+
+## 听的歌
+
+我最喜欢的歌单：[歪果豪庭](https://music.163.com/playlist?id=12993581853&uct2=U2FsdGVkX1/b2hMwNdYCu8oYlv/M9WXq4Lxut4sK8ao=)
